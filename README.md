@@ -1,3 +1,5 @@
+![Pikachu](https://raw.githubusercontent.com/F-Fleron-G/pokemon_battle_helper/a5c0527eb8c777643f197a102490a582c1565665/Pokemon_Battle.png)
+
 # Pokémon Battle Helper
 
 Welcome to the **Pokémon Battle Helper**, a FastAPI-based application designed to help kids build Pokémon battle decks and optimize their strategies! This app connects to a PostgreSQL database for managing user accounts, Pokémon data, and battle decks, offering an educational and fun experience for young Pokémon enthusiasts.

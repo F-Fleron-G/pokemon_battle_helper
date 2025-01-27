@@ -48,7 +48,7 @@ class DeckPokemon(Base):
 app = FastAPI()
 
 
-@app.on_event("startup")
+@app.on_event("startup") # noqa
 def create_tables():
     Base.metadata.create_all(bind=engine)
 
