@@ -1,4 +1,4 @@
-![Pikachu](https://raw.githubusercontent.com/F-Fleron-G/pokemon_battle_helper/a5c0527eb8c777643f197a102490a582c1565665/Pokemon_Battle.png)
+![Pikachu](https://github.com/F-Fleron-G/pokemon_battle_helper/blob/main/pokemon-battle-image.jpg?raw=true)
 
 # Pokémon Battle Helper
 
@@ -80,6 +80,7 @@ Open your browser and visit http://127.0.0.1:8000 to access the app.
 
 ## Credits
 - Pokémon data sourced from PokeAPI.
+- Pokémon battle banner sourced from [Wallpapers.com](https://wallpapers.com/background/pokemon-battle-background-j620nq8sjlscuhox.html).
 - Built by Frederic G. Fleron Grignard.
 
 ---
